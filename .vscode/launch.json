@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AgendaApplication",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.ibm.agenda.AgendaApplication",
+            "args": "",
+            "projectName": "agenda"
+        }
+    ]
+}
